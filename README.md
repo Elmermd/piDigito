@@ -8,7 +8,7 @@ Para ejecutar este programa, asegúrate de tener instaladas las siguientes bibli
 
 - `requests`
 - `beautifulsoup4`
-- 
+  
 # Descripción del Programa
 
 El programa realiza los siguientes pasos:
