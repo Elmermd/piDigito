@@ -32,6 +32,7 @@ El programa realiza los siguientes pasos:
    ```bash
    pip install requests beautifulsoup4
 # Ejemplo de Uso
+```plaintext
 Bienvenido al generador de digitos del número PI!!!
 Por favor, indique cuantos digitos despues del punto quiere visualizar del número PI: 5
 3.14159
@@ -39,6 +40,7 @@ Por favor, indique cuantos digitos despues del punto quiere visualizar del núme
 Por favor, indique cuantos digitos despues del punto quiere visualizar del número PI: 10
 3.1415926535
 ¿Desea realizar otra consulta? Escriba 'Y' para continuar. 'N' para salir. N
+```
 
 # Notas
 
